@@ -8,4 +8,7 @@ project(BadSorts)
 add_executable(
   BadSorts
   src/main.cpp
+  src/popl.hpp
+  src/intervalTimer.hpp
+  src/sorts.hpp
 )
